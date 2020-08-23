@@ -1,2 +1,2 @@
 # ExampleProject
-Example Project with Spring Boot + DataJpa + PostgreSQL + Thymeleaf
+Example Project with Spring Boot + DataJpa + PostgreSQL + Thymeleaf + CSS
