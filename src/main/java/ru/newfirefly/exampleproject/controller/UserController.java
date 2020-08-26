@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import ru.newfirefly.exampleproject.model.User;
 import ru.newfirefly.exampleproject.service.UserService;
 
-import javax.jws.WebParam;
+
 import java.util.List;
 
 @Controller
@@ -55,6 +55,8 @@ public class UserController {
         userService.saveUser(user);
         return "redirect:/users";
     }
+
+
 
 
 }
